@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41076640756",
+    "project_id": "pawpals-12fcc",
+    "storage_bucket": "pawpals-12fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41076640756:android:10b61a2bb0c053180e07a1",
+        "android_client_info": {
+          "package_name": "com.fatihbugur.pawpals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41076640756-ujmmfchrc88cdgh86dtfosa7jbjcj5p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz89OnhYex91ew-YaIp6xoDB0_6y6L3Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41076640756-ujmmfchrc88cdgh86dtfosa7jbjcj5p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
